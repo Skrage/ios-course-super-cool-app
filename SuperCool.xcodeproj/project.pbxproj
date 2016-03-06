@@ -285,6 +285,7 @@
 				24CD588A1C87890A00C6CCD2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
